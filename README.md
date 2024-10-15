@@ -7,7 +7,7 @@
   - Email: [shafiurrahmanrad25@gmail.com](mailto:shafiurrahmanrad25@gmail.com)
   - LinkedIn: [Shafiur Rahman Rad](https://www.linkedin.com/in/shafiurrahmanrad/)
   - Facebook: [Shafiur Rahman Rad](https://www.facebook.com/profile.php?id=100072754745638)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Raad
 - ⚡ Fun fact: I’m passionate about exploring space science and Earth systems, and I love working on projects that make an impact!
 
 Feel free to check out my repositories and connect with me!
