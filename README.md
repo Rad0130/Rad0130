@@ -1,3 +1,8 @@
+
+<img width="430" height="209" alt="gitbanner" src="https://github.com/user-attachments/assets/74a208e1-37ba-4835-bce3-887fc972d0c8" />
+
+
+
 # Hi there, I'm Shafiur Rahman Rad!
 - I’m interested in software development, web development, and data analysis.
 - I’m currently learning advanced algorithms, and data visualization techniques.
