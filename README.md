@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Movie-MasterPro**
 - 🌱 I’m currently learning **Machine Learning, Data Analysis**
 - 👯 I’m looking to collaborate on **Web Development & Software Projects**
-- 💬 Ask me about **React, Tailwind, DaisyUI, Node.js, Express, Firebase**
+- 💬 Ask me about **React, Tailwind, DaisyUI, MongoDB, Node.js, Express, Firebase**
 - 📫 Reach me at **shafiurrahmanrad25@gmail.com**
 - 📄 View Resume: [Click Here](https://online.flippingbook.com/view/362807319/?_gl=1*141vv9v*_gcl_au*MjA3MzY0MDI0OS4xNzYzNDk1MDc1)
 
