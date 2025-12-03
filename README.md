@@ -12,6 +12,7 @@
 - 💬 Ask me about **React, Tailwind, DaisyUI, MongoDB, Node.js, Express, Firebase**
 - 📫 Reach me at **shafiurrahmanrad25@gmail.com**
 - 📄 View Resume: [Click Here](https://drive.google.com/file/d/1xoNFwGbp0ZX-ncb2MpOaXVOa953XOiG-/view?usp=sharing)
+- 📄 Visit my Portfolio: [Click Here](https://my-portfolio-seven-lilac-10.vercel.app/)
 
 ---
 
