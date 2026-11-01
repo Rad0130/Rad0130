@@ -8,10 +8,10 @@
 <h1 align="center">Hi 👋, I'm Shafiur Rahman Rad</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **City-Fixer**
+- 🔭 I’m currently working on **Full Stack Development**
 - 🌱 I’m currently learning **Machine Learning, Data Analysis**
 - 👯 I’m looking to collaborate on **Web Development & Software Projects**
-- 💬 Ask me about **React, Tailwind, DaisyUI, MongoDB, Node.js, Express, Firebase**
+- 💬 Ask me about **React, Tailwind, DaisyUI, MongoDB, Node.js, Express, Firebase, Java Script, Type Script, PostgreSQL, Docker**
 - 📫 Reach me at **shafiurrahmanrad25@gmail.com**
 - 📄 View Resume: [Click Here](https://drive.google.com/file/d/1xoNFwGbp0ZX-ncb2MpOaXVOa953XOiG-/view?usp=sharing)
 - 💼 Visit my Portfolio: [Click Here](https://my-portfolio-seven-lilac-10.vercel.app/)
