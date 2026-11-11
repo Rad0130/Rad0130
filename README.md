@@ -97,18 +97,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech | Links |
-| :--- | :--- | :--- | :--- |
-| **🏙️ City-Fixer** | Civic issue reporting platform with Firebase auth, JWT-based authorization and Stripe payments | MERN, Firebase, Stripe, Tailwind | [Live](https://city-fixer-3e3be.web.app) |
-| **🚗 AutoTrust** | Second-hand car marketplace with verified sellers, wishlist, filters, installment calculator and an admin dashboard | MERN, JWT, Cloudinary | [Live](https://auto-trust-version2-0.vercel.app) · [Code](https://github.com/Rad0130/Auto-Trust-version2.0) |
-| **🎬 Movie-Master** | Full-stack movie library with watchlist, genre browsing, ratings and Google Sign-In | React, Express, MongoDB, Firebase | [Live](https://movie-master-145da.web.app) · [Code](https://github.com/Rad0130/Movie-Master-Pro) |
-| **🤝 Skill-UP** | Platform to offer, learn and trade skills locally | React, Tailwind, DaisyUI, Firebase | [Code](https://github.com/Rad0130/Skill-UP) |
-| **📱 Hero-App** | Responsive App Store platform to browse, search, filter and install apps | React, localStorage | [Code](https://github.com/Rad0130/Hero-App) |
-
----
-
 # 🔬 Research
 
 - 🌡️ **Undergraduate Thesis (ongoing):** Urban Heat Island Dynamics using Spatio-Temporal ML across Bangladesh's divisions (2015–2025)
