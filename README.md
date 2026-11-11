@@ -113,10 +113,16 @@
 ---
 
 # 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rad0130&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rad0130&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Rad0130&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img height="180" src="https://raw.githubusercontent.com/Rad0130/Rad0130/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="https://raw.githubusercontent.com/Rad0130/Rad0130/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+
+</div>
 
 ---
 
