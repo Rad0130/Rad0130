@@ -120,7 +120,7 @@
 <br/>
 
 <img width="336" height="194" alt="image" src="https://github.com/user-attachments/assets/2a080101-52d1-42ed-83e9-10bf35da141a" />
-<img width="425" height="237" alt="image" src="https://github.com/user-attachments/assets/8cd30dec-0618-4af6-8f72-12a187576606" />
+<img width="425" height="194" alt="image" src="https://github.com/user-attachments/assets/8cd30dec-0618-4af6-8f72-12a187576606" />
 
 </div>
 
