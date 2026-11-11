@@ -119,8 +119,8 @@
 
 <br/>
 
-<img height="180" src="https://raw.githubusercontent.com/Rad0130/Rad0130/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="180" src="https://raw.githubusercontent.com/Rad0130/Rad0130/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rad0130&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rad0130&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
 
