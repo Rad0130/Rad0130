@@ -119,7 +119,7 @@
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rad0130&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img width="336" height="194" alt="image" src="https://github.com/user-attachments/assets/2a080101-52d1-42ed-83e9-10bf35da141a" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rad0130&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 </div>
